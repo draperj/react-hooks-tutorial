@@ -1,5 +1,6 @@
 {
   "name": "react-hooks",
+  "description": "From tutorial https://www.taniarascia.com/crud-app-in-react-with-hooks/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
